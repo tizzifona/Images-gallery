@@ -1,4 +1,4 @@
-# CSS-Grid-Exercise
+# CSS-Image Gallery-Exercise
 
 ## 📂 Descripción del Proyecto:
 Este proyecto es un ejercicio de práctica de CSS Flex, realizado para [Factoría F5](https://factoriaf5.org/). Se enfoca en la implementación de un layout responsivo utilizando técnicas modernas de CSS, con el objetivo de mejorar las habilidades en el diseño web.
